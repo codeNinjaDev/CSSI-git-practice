@@ -1,1 +1,2 @@
-Change so I have a merge conflict
+Change so I have a merge conflict, but I resolved it
+
